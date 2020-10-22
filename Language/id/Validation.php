@@ -50,7 +50,7 @@ return [
 	'alpha_dash'            => 'Bidang {field} hanya boleh berisi karakter alfanumerik, setrip bawah, dan tanda pisah.',
 	'alpha_numeric'         => 'Bidang {field} hanya boleh berisi karakter alfanumerik.',
 	'alpha_numeric_space'   => 'Bidang {field} hanya boleh berisi karakter alfanumerik dan spasi.',
-	'alpha_space' 			=> 'Bidang {field} hanya boleh berisi karakter alfabet dan spasi.',
+	'alpha_space'           => 'Bidang {field} hanya boleh berisi karakter alfabet dan spasi.',
 	'decimal'               => 'Bidang {field} harus mengandung sebuah angka desimal.',
 	'differs'               => 'Bidang {field} harus berbeda dari bidang {param}.',
 	'equals'                => 'Bidang {field} harus persis: {param}.',
