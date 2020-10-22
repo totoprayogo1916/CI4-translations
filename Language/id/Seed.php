@@ -1,8 +1,7 @@
 <?php
 
 /**
- * Files language strings.
- *
+ * Seed language strings.
  * This content is released under the MIT License (MIT)
  *
  * Copyright (c) 2014-2019 British Columbia Institute of Technology
@@ -36,9 +35,9 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
-	'fileNotFound'		 => 'Berkas tidak ditemukan: {0}',
-	'cannotMove'		 => 'Tidak dapat memindahkan berkas {0} ke {1} ({2})',
-	// 'invalidFilename' => 'Nama berkas target tidak ada atau tidak valid: {0}',
-	// 'cannotCopy'      => 'Tidak dapat menyalin ke {0} - pastikan folder bisa ditulis',
+    // Seed command
+    'nameFile'   => 'Name the seeder file',
+    'writeError' => 'Error trying to create {0} file, check if the directory is writable.',
 ];

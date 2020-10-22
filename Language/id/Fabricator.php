@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Files language strings.
+ * Fabricator language strings.
  *
  * This content is released under the MIT License (MIT)
  *
@@ -36,9 +36,8 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
-	'fileNotFound'		 => 'Berkas tidak ditemukan: {0}',
-	'cannotMove'		 => 'Tidak dapat memindahkan berkas {0} ke {1} ({2})',
-	// 'invalidFilename' => 'Nama berkas target tidak ada atau tidak valid: {0}',
-	// 'cannotCopy'      => 'Tidak dapat menyalin ke {0} - pastikan folder bisa ditulis',
+    'invalidModel'      => 'Invalid model supplied for fabrication.',
+    'missingFormatters' => 'No valid formatters defined.',
 ];
