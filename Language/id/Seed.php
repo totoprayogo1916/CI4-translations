@@ -39,6 +39,6 @@
 
 return [
     // Seed command
-    'nameFile'   => 'Name the seeder file',
-    'writeError' => 'Error trying to create {0} file, check if the directory is writable.',
+    'nameFile'   => 'Beri nama file seeder',
+    'writeError' => 'Galat saat mencoba membuat berkas {0}, periksa apakah direktori dapat ditulis.',
 ];

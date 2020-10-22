@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'languageGetLineInvalidArgumentException' => 'Get line harus berupa sebuah string atau array string.'
 ];

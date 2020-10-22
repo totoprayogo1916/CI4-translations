@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'pageNavigation'         => 'Navigasi halaman',
 	'first'                  => 'Pertama',

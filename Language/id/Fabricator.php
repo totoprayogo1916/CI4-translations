@@ -38,6 +38,6 @@
  */
 
 return [
-    'invalidModel'      => 'Invalid model supplied for fabrication.',
-    'missingFormatters' => 'No valid formatters defined.',
+    'invalidModel'      => 'Model tidak valid disediakan untuk fabrikasi.',
+    'missingFormatters' => 'Tidak ada pemformat valid yang ditentukan.',
 ];

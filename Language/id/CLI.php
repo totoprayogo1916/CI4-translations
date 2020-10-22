@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'commandNotFound' => 'Perintah "{0}" tidak ditemukan.',
 	'helpUsage'       => 'Pemakaian:',

@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'missingDatabaseTable'   => '`sessionSavePath` harus memiliki nama tabel untuk Handler Sesi Basis Data agar bekerja.',
 	'invalidSavePath'        => 'Sesi: Jalur penyimpanan terkonfigurasi "{0}" bukan sebuah direktori, tidak ada atau tidak dapat dibuat.',

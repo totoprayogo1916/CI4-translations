@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	// CurlRequest
 	'missingCurl'                => 'CURL harus diaktifkan untuk menggunakan kelas CURLRequest.',

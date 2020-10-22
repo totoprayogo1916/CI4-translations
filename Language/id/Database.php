@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'invalidEvent'         => '{0} bukan sebuah panggilan balik Model Event yang valid.',
 	'invalidArgument'      => 'Anda harus memberikan sebuah {0} yang valid.',

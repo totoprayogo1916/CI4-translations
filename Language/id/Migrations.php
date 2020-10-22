@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	// Migration Runner
 	'missingTable'      => 'Tabel migrasi harus diatur.',
@@ -60,6 +61,8 @@ return [
 	'badCreateName'     => 'Anda harus memberikan sebuah nama berkas migrasi.',
 	'writeError'        => 'Kesalahan saat mencoba membuat berkas.',
 	'migNumberError'    => 'Nomor migrasi harus tiga digit dan tidak boleh ada jarak pada urutan.',
+	'rollBackConfirm'   => 'Anda yakin ingin melakukan rollback?',
+	'refreshConfirm'    => 'Anda yakin ingin menyegarkan?',
 
 	'latest'            => 'Menjalankan semua migrasi baru...',
 	'generalFault'      => 'Migrasi gagal!',

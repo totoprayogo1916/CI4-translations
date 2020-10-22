@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'invalidMonth'   => 'Bulan harus antara 1 dan 12. Diberikan: {0}',
 	'invalidDay'     => 'Hari harus antara 1 dan 31. Diberikan: {0}',
