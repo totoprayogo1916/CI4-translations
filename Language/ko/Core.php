@@ -35,7 +35,6 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */odeCoverageIgnore
  */
 
 return [

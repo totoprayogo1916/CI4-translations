@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'invalidLogLevel' => '{0} adalah sebuah level log yang tidak valid.',
 ];

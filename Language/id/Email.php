@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'mustBeArray'          => 'Metode validasi surel harus melewati sebuah array.',
 	'invalidAddress'       => 'Alamat surel tidak valid: {0}',

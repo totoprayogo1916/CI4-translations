@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'invalidEvent'         => '{0} bukan sebuah panggilan balik Model Event yang valid.',
 	'invalidArgument'      => 'Anda harus memberikan sebuah {0} yang valid.',
@@ -52,4 +53,4 @@ return [
 	'fieldNotExists'                   => 'Bidang `{0}` tidak ditemukan.',
 	'forEmptyInputGiven'               => 'Pernyataan kosong diberikan untuk bidang `{0}`',
 	'forFindColumnHaveMultipleColumns' => 'Hanya satu kolom yang diizinkan dalam nama Kolom.',
- ];
+];
