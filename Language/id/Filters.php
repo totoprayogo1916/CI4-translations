@@ -38,6 +38,6 @@
  */
 
 return [
-	'noFilter'           => 'Filter \'{0}\' harus memiliki sebuah alias sesuai yang ditentukan.',
+	'noFilter'           => 'Filter {0} harus memiliki kecocokan dengan alias yang ditetapkan.',
 	'incorrectInterface' => '{0} harus menerapkan CodeIgniter\Filters\FilterInterface.',
 ];
