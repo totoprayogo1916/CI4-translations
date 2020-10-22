@@ -37,7 +37,6 @@
  * @codeCoverageIgnore
  */
 
-return
-[
+return [
    'tryingToAccessNonExistentProperty' => 'Mencoba mengakses properti yang tidak ada {0} dari {1}',
 ];

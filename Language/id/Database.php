@@ -52,4 +52,4 @@ return [
 	'fieldNotExists'                   => 'Bidang `{0}` tidak ditemukan.',
 	'forEmptyInputGiven'               => 'Pernyataan kosong diberikan untuk bidang `{0}`',
 	'forFindColumnHaveMultipleColumns' => 'Hanya satu kolom yang diizinkan dalam nama Kolom.',
- ];
+];

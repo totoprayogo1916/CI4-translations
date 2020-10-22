@@ -39,7 +39,7 @@
 return [
 	// Migration Runner
 	'missingTable'    => 'Tabel migrasi harus diatur.',
-//	'invalidType'     => 'Jenis penomoran migrasi tidak valid telah ditentukan: {0}',
+	//	'invalidType'     => 'Jenis penomoran migrasi tidak valid telah ditentukan: {0}',
 	'disabled'        => 'Migrasi telah dimuat tetapi dinonaktifkan atau pengaturan salah.',
 	'notFound'        => 'Berkas migrasi tidak ditemukan: ',
 	'batchNotFound'     => 'Sejumlah target tidak ditemukan: ',
@@ -63,7 +63,7 @@ return [
 
 	'latest'            => 'Menjalankan semua migrasi baru...',
 	'generalFault'      => 'Migrasi gagal!',
-//	'toLatest'          => 'Migrasi ke versi terbaru...',
+	//	'toLatest'          => 'Migrasi ke versi terbaru...',
 	'migInvalidVersion' => 'Nomor versi tidak valid diberikan.',
 	'toVersionPH'       => 'Migrasi ke versi %s...',
 	'toVersion'         => 'Migrasi ke versi saat ini...',
