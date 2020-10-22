@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */odeCoverageIgnore
+ */
 
 return [
    'invalidFile'      => '유효하지 않은 파일: {0}', // 'Invalid file: {0}',
