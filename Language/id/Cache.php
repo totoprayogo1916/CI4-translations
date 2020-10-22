@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'unableToWrite'   => 'Cache tidak bisa menulis pada {0}',
 	'invalidHandlers' => 'Konfigurasi cache harus memiliki sebuah array dari $validHandlers.',

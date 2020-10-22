@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'noFilter'           => 'Filter \'{0}\' harus memiliki sebuah alias sesuai yang ditentukan.',
 	'incorrectInterface' => '{0} harus menerapkan CodeIgniter\Filters\FilterInterface.',

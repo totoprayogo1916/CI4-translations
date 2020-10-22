@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Language system language strings.
+ * Fabricator language strings.
  *
  * This content is released under the MIT License (MIT)
  *
@@ -38,5 +38,6 @@
  */
 
 return [
-	'languageGetLineInvalidArgumentException' => 'Get line harus berupa sebuah string atau array string.'
+    'invalidModel'      => 'Model tidak valid disediakan untuk fabrikasi.',
+    'missingFormatters' => 'Tidak ada pemformat valid yang ditentukan.',
 ];

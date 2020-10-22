@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Files language strings.
  *
@@ -35,9 +36,10 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'fileNotFound'		 => 'Berkas tidak ditemukan: {0}',
 	'cannotMove'		 => 'Tidak dapat memindahkan berkas {0} ke {1} ({2})',
-//	'invalidFilename'	 => 'Nama berkas target tidak ada atau tidak valid: {0}',
-//	'cannotCopy'		 => 'Tidak dapat menyalin ke {0} - pastikan folder bisa ditulis',
+	// 'invalidFilename' => 'Nama berkas target tidak ada atau tidak valid: {0}',
+	// 'cannotCopy'      => 'Tidak dapat menyalin ke {0} - pastikan folder bisa ditulis',
 ];
