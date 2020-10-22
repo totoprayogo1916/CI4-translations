@@ -1,8 +1,8 @@
 <?php
 
 /**
- * Language system language strings.
- *
+ * Seed language strings.
+ * 
  * This content is released under the MIT License (MIT)
  *
  * Copyright (c) 2014-2019 British Columbia Institute of Technology
@@ -38,5 +38,7 @@
  */
 
 return [
-	'languageGetLineInvalidArgumentException' => 'Get line harus berupa sebuah string atau array string.'
+    // Seed command
+    'nameFile'   => 'Beri nama file seeder',
+    'writeError' => 'Galat saat mencoba membuat berkas {0}, periksa apakah direktori dapat ditulis.',
 ];

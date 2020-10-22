@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'invalidJSON'      => 'Gagal menguraikan string json, kesalahan: "{0}".',
 	'missingExtension' => 'Ekstensi SimpleXML diperlukan untuk memformat XML.',

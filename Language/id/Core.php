@@ -36,9 +36,11 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
-	'invalidFile'      => 'Berkas tidak valid: {0}',
-	'copyError'        => 'Sebuah kesalahan terjadi saat mencoba mengganti berkas. Pastikan direktori berkas Anda dapat ditulis.',
-	'missingExtension' => 'Ekstensi {0} tidak dimuat.',
-	'noHandlers'       => '{0} harus menyediakan setidaknya satu Handler.',
+	'copyError'                    => 'Sebuah kesalahan terjadi saat mencoba mengganti berkas. Pastikan direktori berkas Anda dapat ditulis.',
+	'enabledZlibOutputCompression' => 'Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.',
+	'invalidFile'                  => 'Berkas tidak valid: {0}',
+	'missingExtension'             => 'Ekstensi {0} tidak dimuat.',
+	'noHandlers'                   => '{0} harus menyediakan setidaknya satu Handler.',
 ];
