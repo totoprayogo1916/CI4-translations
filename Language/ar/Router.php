@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'invalidParameter'    => 'المدخلات لا تطابق النوع المتوقع.',
 	'missingDefaultRoute' => 'لا يمكن عرض الصفحة. لم يتم وضع مسار افتراضي للتوجيه له.',

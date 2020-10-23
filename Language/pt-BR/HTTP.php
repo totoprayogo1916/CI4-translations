@@ -1,4 +1,5 @@
 <?php
+
 /**
  * HTTP language strings.
  *
@@ -96,7 +97,4 @@ return [
 	'uploadErrNoTmpDir'      => 'Upload de arquivo não pode ser realizado: faltando diretório temporário.',
 	'uploadErrExtension'     => 'Upload de arquivo foi parado por uma extensão PHP.',
 	'uploadErrUnknown'       => 'O upload do arquivo "%s" não foi realizado devido a um erro desconhecido.',
-
-	// SameSite setting
-	'invalidSameSiteSetting' => 'A configuração SameSite deve ser None, Lax, Strict ou uma string vazia. Dado: {0}',
 ];

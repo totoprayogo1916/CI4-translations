@@ -38,6 +38,7 @@
  */
 return [
 	'invalidFile'      => 'ملف غير صالح: {0}',
+	'enabledZlibOutputCompression' => 'Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.',
 	'copyError'        => 'حدث خطأ أثناء محاولة استبدال الملف. يرجى التأكد من أن المجلد قابل للكتابة.',
 	'missingExtension' => 'المكتبة {0} لم يتم تحميلها.',
 	'noHandlers'       => '{0} يجب توفير معالج واحد على الأقل.',
