@@ -38,8 +38,9 @@
  */
 
 return [
-   'invalidFile'      => 'Tập tin không hợp lệ:{0}',
    'copyError'        => 'Đã xảy ra lỗi khi cố gắng thay thế tệp ({0}). Hãy chắc chắn rằng thư mục tập tin của bạn có quyền ghi.',
+   'enabledZlibOutputCompression' => 'Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.',
+   'invalidFile'      => 'Tập tin không hợp lệ:{0}',
    'missingExtension' => '{0} tiện ích mở rộng không được tải.',
    'noHandlers'       => '{0} phải cung cấp ít nhất một Handler.',
 ];
