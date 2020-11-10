@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'invalidFile'      => 'Non valido il file: {0}',
 	'copyError'        => 'Riscontrato un errore nel tentativo di riposizionare il file. Si prega di assicurarsi che la cartella dei file sia scrivibile.',

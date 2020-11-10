@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Encryption language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'noDriverRequested'    => 'Không tìm thấy ổ đĩa yêu cầu, Mr XuanDung38 rất thất vọng!',

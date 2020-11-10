@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Router language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'invalidParameter'    => 'パラメータが予想される型と一致しません。', //A parameter does not match the expected type.

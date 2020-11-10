@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
 	// Core Messages

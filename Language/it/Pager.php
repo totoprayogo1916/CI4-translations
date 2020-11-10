@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'pageNavigation'         => 'Selezione Pagina',
 	'first'                  => 'Primo',

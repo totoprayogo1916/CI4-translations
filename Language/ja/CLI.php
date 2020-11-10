@@ -1,4 +1,5 @@
 <?php
+
 /**
  * CLI language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'commandNotFound' => '"{0}"というコマンドはありません。', //Command "{0}" not found.

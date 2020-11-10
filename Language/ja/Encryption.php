@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Encryption language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'noDriverRequested'    => 'ドライバは不要です。', //No driver requested; Miss Daisy will be so upset! ← ダジャレは翻訳しません

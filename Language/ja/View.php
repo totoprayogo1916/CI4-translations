@@ -1,4 +1,5 @@
 <?php
+
 /**
  * View language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'invalidCellMethod'     => '{class}::{method} は有効なメソッドではありません。', //{class}::{method} is not a valid method.

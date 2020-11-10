@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'invalidJSON'      => 'Fallita l\'elaborazione della stringa json, errore: "{0}".',
 	'missingExtension' => 'L\'estensione SimpleXML è richiesta per il formato XML.',

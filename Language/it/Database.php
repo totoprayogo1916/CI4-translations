@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'invalidEvent'         => '{0} non è una valida chiamata dell\'evento del Model.',
 	'invalidArgument'      => 'Devi fornire un valido {0}.',

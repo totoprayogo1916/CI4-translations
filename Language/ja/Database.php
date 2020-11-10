@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Database language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'invalidEvent'                     => '{0} は有効なモデルイベントコールバックではありません。', //{0} is not a valid Model Event callback.

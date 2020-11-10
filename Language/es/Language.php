@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'languageGetLineInvalidArgumentException' => 'La línea obtenida debe ser una cadena o un array de cadenas.'
 ];

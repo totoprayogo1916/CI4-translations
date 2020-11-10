@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'invalidMonth'   => 'Các tháng phải nằm trong khoảng từ 1 đến 12. Đang nhập: {0}',

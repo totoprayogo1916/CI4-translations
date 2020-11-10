@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'invalidEvent'                     => '{0} не є допустимою функцією зворотного виклику моделі.',

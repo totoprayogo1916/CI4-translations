@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'unableToWrite'   => 'Bộ nhớ cache không thể ghi vào {0}',

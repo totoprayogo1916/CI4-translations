@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'missingDatabaseTable'   => '`sessionSavePath` phải có tên bảng để Trình xử lý Session cơ sở dữ liệu hoạt động.',

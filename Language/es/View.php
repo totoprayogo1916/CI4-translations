@@ -1,4 +1,5 @@
 <?php
+
 /**
  * View language strings.
  *
@@ -35,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'invalidCellMethod'     => '{class}::{method} no es un método válido.',
 	'missingCellParameters' => '{class}::{method} no tiene parámetros.',

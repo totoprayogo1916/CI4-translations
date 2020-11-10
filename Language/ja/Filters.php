@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Filters language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'noFilter'           => '{0} フィルタには、一致するエイリアスが定義されていなければなりません。', //{0} filter must have a matching alias defined.

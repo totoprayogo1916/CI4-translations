@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Files language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'fileNotFound' => 'Không tìm thấy tệp: {0} ',

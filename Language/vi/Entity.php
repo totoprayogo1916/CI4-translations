@@ -1,7 +1,7 @@
 <?php
 
 /**
- * CLI language strings.
+ * Entity language strings.
  *
  * This content is released under the MIT License (MIT)
  *
@@ -35,9 +35,8 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
-return
-[
+return [
    'tryingToAccessNonExistentProperty' => 'Đang cố gắng truy cập thuộc tính không tồn tại {0} trong số {1}',
 ];

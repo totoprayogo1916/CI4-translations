@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'sourceImageRequired'    => 'Debe especificar el origen de la imagen en las preferencias.',
 	'gdRequired'             => 'Se requiere la librería de imágenes GD para esta funcionalidad.',

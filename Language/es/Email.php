@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'mustBeArray'          => 'El método de validación del email debe ser pasado en array.',
 	'invalidAddress'       => 'Dirección de email inválida: {0}',

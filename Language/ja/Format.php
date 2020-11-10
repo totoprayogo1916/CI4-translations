@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Format language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'invalidJSON'      => 'JSON文字列のパースに失敗しました。 エラー: "{0}"', //Failed to parse json string, error: "{0}".

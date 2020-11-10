@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	// CurlRequest
 	'missingCurl'                => 'CURL deve essere abilitato per usare la classe CURLRequest.',

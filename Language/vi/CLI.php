@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'commandNotFound' => 'Lệnh "{0}" không tìm thấy.',

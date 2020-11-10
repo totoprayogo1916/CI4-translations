@@ -1,6 +1,7 @@
 <?php
+
 /**
- * CLI language strings.
+ * Entity language strings.
  *
  * This content is released under the MIT License (MIT)
  *
@@ -34,9 +35,8 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
-return
-[
+return [
    'tryingToAccessNonExistentProperty' => '{1}の実在しないプロパティ {0} にアクセスしようとします。', //Trying to access non existent property {0} of {1}
 ];

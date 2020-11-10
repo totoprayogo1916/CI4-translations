@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'sourceImageRequired'    => 'В налаштуваннях слід вказати початкове зображення.',

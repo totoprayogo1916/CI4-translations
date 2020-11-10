@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Email language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'mustBeArray'          => 'メール検証メソッドには配列を渡す必要があります。', //The email validation method must be passed an array.

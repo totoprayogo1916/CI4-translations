@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Number language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'terabyteAbbr' => 'TB',

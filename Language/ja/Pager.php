@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Pager language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'pageNavigation'         => 'ページナビゲーション', //Page navigation

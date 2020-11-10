@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'invalidJSON'      => 'Không thể phân tích chuỗi json, lỗi: "{0}".',

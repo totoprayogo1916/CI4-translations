@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Cast language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'jsonErrorDepth'         => '最大スタック深さを超えました', //Maximum stack depth exceeded

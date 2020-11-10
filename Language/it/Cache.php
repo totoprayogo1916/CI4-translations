@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'unableToWrite'   => 'Cache unable to write to {0}',
 	'invalidHandlers' => 'La configurazione della Cache deve avere un array di $validHandlers.',

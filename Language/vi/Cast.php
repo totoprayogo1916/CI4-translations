@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Cast language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'jsonErrorDepth'         => 'Vượt quá độ sâu xếp chồng tối đa.',

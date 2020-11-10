@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'missingDatabaseTable'   => '`sessionSavePath` deve avere il nome della tavola per far funzionare il Gestore della Sessione del Database.',
 	'invalidSavePath'        => 'Sessione: il configurato percorso di salvataggio "{0}" non è una cartella, non esiste o non può essere creato.',

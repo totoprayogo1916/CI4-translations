@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'languageGetLineInvalidArgumentException' => 'Dòng tìm nạp phải là một mảng các ký tự hoặc chuỗi.',

@@ -1,4 +1,5 @@
 <?php
+
 /**
  * RESTful language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'notImplemented' => '"{0}" hành động không được thực hiện.',
