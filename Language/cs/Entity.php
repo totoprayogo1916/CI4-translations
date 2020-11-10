@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Entity Language strings.
+ * Entity language strings.
  *
  * This file is part of the CodeIgniter 4 framework.
  *
