@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Redirect language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'forUnableToRedirect' => '"{0}"へリダイレクトできません。エラーステータスコード "{1}"', //Unable to redirect to "{0}". Error status code "{1}"

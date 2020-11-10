@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'invalidParameter'    => 'Một tham số không phù hợp với loại dự kiến.',

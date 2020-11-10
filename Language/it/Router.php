@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'invalidParameter'    => 'Un parametro non rientra nella tipologia attesa.',
 	'missingDefaultRoute' => 'Impossibile determinare cosa si dovrebbe mostrare. Non è stato specificato un percorso di default nel file percorsi (routing).',

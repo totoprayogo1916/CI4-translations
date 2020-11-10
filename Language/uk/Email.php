@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'mustBeArray'          => 'В метод перевірки електронної пошти мусить передаватися масив.',

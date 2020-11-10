@@ -1,4 +1,5 @@
 <?php
+
 /**
  * HTTP language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
 	// CurlRequest

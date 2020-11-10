@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'invalidLogLevel' => '{0} non è un valido livello di log.',
 ];

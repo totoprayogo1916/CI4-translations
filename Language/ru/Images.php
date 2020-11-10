@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'sourceImageRequired'    => 'В настройках необходимо указать исходное изображение.',

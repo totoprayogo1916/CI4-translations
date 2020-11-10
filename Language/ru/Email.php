@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'mustBeArray'          => 'В метод проверки электронной почты должен быть передан массив.',

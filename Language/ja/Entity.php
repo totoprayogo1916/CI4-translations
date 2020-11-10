@@ -1,4 +1,5 @@
 <?php
+
 /**
  * CLI language strings.
  *
@@ -34,9 +35,8 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
-return
-[
+return [
    'tryingToAccessNonExistentProperty' => '{1}の実在しないプロパティ {0} にアクセスしようとします。', //Trying to access non existent property {0} of {1}
 ];

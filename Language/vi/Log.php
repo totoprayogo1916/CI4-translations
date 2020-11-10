@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'invalidLogLevel' => '{0} là một mức độ nhật ký không hợp lệ.',

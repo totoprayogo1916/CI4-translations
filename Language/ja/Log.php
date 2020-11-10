@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Log language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'invalidLogLevel' => '{0} は無効なログレベルです。', //{0} is an invalid log level.

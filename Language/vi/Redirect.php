@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'forUnableToRedirect' => 'Không thể chuyển hướng đến "{0}". Mã trạng thái lỗi "{1}"',

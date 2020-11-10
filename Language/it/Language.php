@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'languageGetLineInvalidArgumentException' => 'La linea di richiesta deve essere una stringa o un array di stringhe.'
 ];

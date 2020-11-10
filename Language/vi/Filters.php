@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'noFilter'           => '{0} bộ lọc phải có một bí danh phù hợp được xác định.',

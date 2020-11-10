@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Core language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'invalidFile'      => '無効なファイル: {0}', //Invalid file: {0}

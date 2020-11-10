@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Cache language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'unableToWrite'   => '{0} へキャッシュの書き込みができません。', //Cache unable to write to {0}

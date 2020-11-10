@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'sourceImageRequired'    => 'Hình ảnh gốc phải được chỉ định. ',

@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Time language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'invalidMonth'   => '月は1から12を指定してください。 入力された値: {0}', //Months must be between 1 and 12. Given: {0}

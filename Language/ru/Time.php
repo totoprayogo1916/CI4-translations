@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'invalidMonth'   => 'Должен быть указан месяц между 1 и 12. Указано: {0}',

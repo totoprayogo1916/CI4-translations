@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	// Migration Runner
 	'missingTable'    => 'La tavola delle Migrazioni deve essere indicata.',

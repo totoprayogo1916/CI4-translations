@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'invalidEvent'                     => '{0} không phải là một phản hồi Model Event hợp lệ.',

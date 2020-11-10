@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'invalidMonth'   => 'Номер місяця може бути між 1 та 12. Вказано: {0}',

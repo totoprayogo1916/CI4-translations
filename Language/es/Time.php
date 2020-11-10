@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'invalidMonth'   => 'Los meses deben estar entre 1 y 12. Establecido: {0}',
     'invalidDay'     => 'Los días deben estar entre 1 y 31. Establecido: {0}',

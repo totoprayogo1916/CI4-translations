@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Files language strings.
   *
@@ -35,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'fileNotFound'		 => 'File non trovato: {0}',
 	'cannotMove'		 => 'Non è possibile spostare il file {0} in {1} ({2})',

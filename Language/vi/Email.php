@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Email language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'mustBeArray'          => 'Phương thức xác thực email phải được thông qua một mảng.',

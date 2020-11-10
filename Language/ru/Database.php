@@ -35,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'invalidEvent'                     => '{0} не является допустимой функцией обратного вызова модели.',

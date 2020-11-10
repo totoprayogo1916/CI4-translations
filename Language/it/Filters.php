@@ -36,6 +36,7 @@
  *
  * @codeCoverageIgnore
  */
+
 return [
 	'noFilter'           => '\'{0}\' il filtro deve avere un alias di riferimento definito.',
 	'incorrectInterface' => '{0} deve implementare CodeIgniter\Filters\FilterInterface.',

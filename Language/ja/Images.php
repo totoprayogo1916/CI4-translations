@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Image language strings.
  *
@@ -34,7 +35,7 @@
  * @filesource
  *
  * @codeCoverageIgnore
- */
+  */
 
 return [
    'sourceImageRequired'    => '環境設定でソース画像を指定する必要があります。', //You must specify a source image in your preferences.
