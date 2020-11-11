@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Entity language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Entity language settings
 return [
    'tryingToAccessNonExistentProperty' => 'Tentou aceder à propriedade {0} enexistente de {1}',
 ];

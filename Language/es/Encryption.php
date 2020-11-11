@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Encryption language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Encryption language settings
 return [
    'noDriverRequested'    => 'No se solicitó un driver; ¡La señorita Daisy estará muy molesta!', // 'No driver requested; Miss Daisy will be so upset!',
    'noHandlerAvailable'   => 'No se puede encontrar un controlador de cifrado {0} disponible.', // 'Unable to find an available {0} encryption handler.',

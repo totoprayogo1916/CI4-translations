@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Cast language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Cast language settings
 return [
 	'jsonErrorDepth'         => 'Profundidade máxima da pilha foi excedida',
 	'jsonErrorStateMismatch' => 'Underflow ou a incompatibilidade de modos',

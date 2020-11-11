@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Email language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Email language settings
 return [
    'mustBeArray'          => '電子郵件驗證方法（email validation method）必須傳入一個陣列。',
    'invalidAddress'       => '無效的電子郵件地址: {0}',

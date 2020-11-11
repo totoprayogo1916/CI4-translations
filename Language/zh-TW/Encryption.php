@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Encryption language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Encryption language settings
 return [
    'noDriverRequested'    => '沒有任何驅動器被請求；黛西小姐感到十分困擾！（Miss Daisy will be so upset!）',
    'noHandlerAvailable'   => '找不到可以使用的 {0} 加密處理器（encryption handler）.',

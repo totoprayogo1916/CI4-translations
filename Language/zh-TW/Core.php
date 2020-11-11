@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Core language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Core language settings
 return [
    'invalidFile'      => '無效的檔案: {0}',
    'copyError'        => '嘗試替換檔案({0})時遇到錯誤. 請確定檔案目錄具有可寫入的權限。',

@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Time language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Time language settings
 return [
    'invalidMonth'   => 'ماه باید بین 1 تا 12 باشد. مقدار وارد شده: {0}',
    'invalidDay'     => 'روز باید بین 1 تا 31 باشد. مقدار وارد شده: {0}',

@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Session language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Session language settings
 return [
 	'missingDatabaseTable'   => '`sessionSavePath` musi mieć nazwę tabeli dla obsługi sesji bazy danych.',
 	'invalidSavePath'        => 'Sesja: Skonfigurowana ścieżka zapisu "{0}" nie jest katalogiem, nie istnieje lub nie można jej utworzyć.',

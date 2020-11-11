@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Time language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Time language settings
 return [
    'invalidMonth'   => 'Menesių reikšmės gali būti nuo 1 iki 12. Įrašyta: {0}',
    'invalidDay'     => 'Dienų reikšmės gali būti nuo 1 iki 31. Įrašyta: {0}',

@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Database language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Database language settings
 return [
    'invalidEvent'                     => '{0} nėra teisingas modelio įvykio iškviečiamasis atsakas.',
    'invalidArgument'                  => 'Turite pateikti teisingą {0}.',

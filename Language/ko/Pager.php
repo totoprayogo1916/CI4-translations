@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Pager language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Pager language settings
 return [
    'pageNavigation'         => '페이지 내비게이션', // 'Page navigation',
    'first'                  => '처음', // 'First',

@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Session language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Session language settings
 return [
 	'missingDatabaseTable'   => 'Veritabanı Oturum Yöneticisinin çalışması için `sessionSavePath` de bir tablo adı belirtilmeli.',
 	'invalidSavePath'        => 'Oturum: Ayarlarda belirtilen kayıt yolu "{0}" bir klasör değil, mevcut değil veya oluşturulamıyor.',

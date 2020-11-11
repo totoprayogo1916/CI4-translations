@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Session language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Session language settings
 return [
     'missingDatabaseTable'   => '`sessionSavePath` moet een tabelnaam bevatten om Database Session Handler te laten werken.',
     'invalidSavePath'        => 'Session: Pad "{0}" is geen folder, bestaat niet of kon niet worden aangemaakt.',

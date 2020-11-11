@@ -1,8 +1,6 @@
 <?php
 
 /**
- * View language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// View language settings
 return [
    'invalidCellMethod'     => '{class}::{method} nie je platná metóda.',
    'missingCellParameters' => '{class}::{method} nemá žiadne parametre.',

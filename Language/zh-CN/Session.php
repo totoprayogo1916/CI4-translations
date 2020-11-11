@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Session language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Session language settings
 return [
    'missingDatabaseTable'   => '`sessionSavePath` 必须是数据库中的表名才能正常工作。',
    'invalidSavePath'        => 'Session: 配置的保存路径 "{0}" , 目录不存在或无法创建。',

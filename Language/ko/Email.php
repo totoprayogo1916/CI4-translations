@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Email language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Email language settings
 return [
    'mustBeArray'          => 'email 검증 메서드에는 반드시 배열을 넘겨줘야 합니다.', // CI4 기준 : is_array()를 통과하지 못한 경우에 발생하는 에러 메시지. // 'The email validation method must be passed an array.',
    'invalidAddress'       => '유효하지 않은 이메일 주소: {0}', // 'Invalid email address: {0}',

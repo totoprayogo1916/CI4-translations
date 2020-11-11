@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Image language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Images language settings
 return [
    'sourceImageRequired'    => 'Vous devez spécifier une image source dans vos préférences.',
    'gdRequired'             => 'La bibliothèque "GD image library" est nécessaire pour utiliser cette fonctionnalité.',

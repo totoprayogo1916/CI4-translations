@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Database language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Database language settings
 return [
    'invalidEvent'                     => '{0} സാധുവായ ഒരു മോഡൽ ഇവന്റ് കോൾബാക്ക് അല്.',
    'invalidArgument'                  => 'നിങ്ങൾ സാധുവായ {0} നൽകണം.',

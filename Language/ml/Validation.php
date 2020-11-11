@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Validation language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Validation language settings
 return [
         // പ്രധാന സന്ദേശങ്ങൾ
    'noRuleSets' => 'മൂല്യനിർണ്ണയ കോൺഫിഗറേഷനിൽ റൂൾസെറ്റുകളൊന്നും വ്യക്തമാക്കിയിട്ടില്ല.',

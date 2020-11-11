@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Files language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Files language settings
 return [
    'fileNotFound' => 'Файл {0} не найден.',
    'cannotMove'   => 'Не удалось переместить файл из {0} в {1}. ({2})',

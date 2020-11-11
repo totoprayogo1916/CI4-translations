@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Session language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Session language settings
 return [
    'missingDatabaseTable'   => 'In `sessionSavePath` muss der Tabellenname angegeben werden damit das Session Handling per Datenbank funktioniert.',
    'invalidSavePath'        => 'Session: Der konfigurierte Speicherpfad "{0}" ist kein Verzeichnis, existiert nicht oder kann nicht erstellt werden.',

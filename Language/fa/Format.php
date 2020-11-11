@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Format language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Format language settings
 return [
    'invalidJSON'      => 'مشکلی در بررسی JSON وجود داشت: "{0}".',
    'missingExtension' => 'افزونه‌ی SimpleXML برای فرمت‌دهی XML ضروری است.',

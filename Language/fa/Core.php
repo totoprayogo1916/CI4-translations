@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Core language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Core language settings
 return [
    'invalidFile'      => 'فایل نامعتبر: {0}',
    'copyError'        => 'مشکلی در هنگام جایگزینی فایل بوجود آمده است. لطفا اطمینان حاصل کنید که شاخه‌ی فایل قابل نوشتن است.',

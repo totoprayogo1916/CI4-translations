@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Database language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Database language settings
 return [
 	'invalidEvent'         => '{0} bukan sebuah panggilan balik Model Event yang valid.',
 	'invalidArgument'      => 'Anda harus memberikan sebuah {0} yang valid.',

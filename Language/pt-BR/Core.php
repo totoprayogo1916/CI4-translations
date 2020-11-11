@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Core language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Core language settings
 return [
 	'copyError'                    => 'Um erro foi encontrado ao tentar substituir o arquivo. Por favor, certifique-se de que seu diretório de arquivos é gravável.',
 	'enabledZlibOutputCompression' => 'Sua diretiva zlib.output_compression ini está on. Isso não irá trabalhar bem com a saída de buffers.',

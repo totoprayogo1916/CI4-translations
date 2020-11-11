@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Time language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Time language settings
 return [
 	'invalidMonth'   => 'Bulan harus antara 1 dan 12. Diberikan: {0}',
     'invalidDay'     => 'Hari harus antara 1 dan 31. Diberikan: {0}',

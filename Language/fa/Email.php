@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Email language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Email language settings
 return [
    'mustBeArray'          => 'لطفا یک «آرایه» به متد اعتبارسنجی ای‌میل ارسال کنید.',
    'invalidAddress'       => 'ای‌میل نامعتبر: {0}',

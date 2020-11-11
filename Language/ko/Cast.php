@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Cast language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Cast language settings
 return [
    'jsonErrorDepth'         => '최대 스택 깊이 초과', // 'Maximum stack depth exceeded',
    'jsonErrorStateMismatch' => 'Underflow 또는 modes 불일치', // 'Underflow or the modes mismatch',

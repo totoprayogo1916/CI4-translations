@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Session language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Session language settings
 return [
    'missingDatabaseTable'   => '데이터베이스 세션 핸들러가 동작하기 위해서, 반드시 `sessionSavePath`에 테이블 명이 지정되어야 합니다.', // '`sessionSavePath` must have the table name for the Database Session Handler to work.',
    'invalidSavePath'        => 'Session: 설정된 세션 저장 경로 "{0}"의 경우, 디렉터리가 아니거나 존재하지 않거나 생성할 수 없습니다.', // 'Session: Configured save path "{0}" is not a directory, does not exist or cannot be created.',

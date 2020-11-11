@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Core language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Core language settings
 return [
    'invalidFile'      => 'Ugyldig fil: {0}',
    'copyError'        => 'Det oppstod en feil under forsøket på å erstatte filen. Forsikre deg om at katalogen er skrivbar.',

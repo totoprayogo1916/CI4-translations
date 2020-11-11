@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Cache language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Cache language settings
 return [
 	'unableToWrite'   => 'Não foi possível escrever os ficheiros de cache em {0}',
 	'invalidHandlers' => 'A configuração de Cache deve ter um array de $validHandlers.',

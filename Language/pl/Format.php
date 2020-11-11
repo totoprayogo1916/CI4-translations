@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Format language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Format language settings
 return [
 	'invalidJSON'      => 'Nie można przeanalizować łańcucha JSON, błąd: "{0}".',
 	'missingExtension' => 'Rozszerzenie SimpleXML jest wymagane do formatowania XML.',

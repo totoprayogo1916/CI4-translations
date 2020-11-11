@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Cache language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Cache language settings
 return [
    'unableToWrite'   => '{0}에 캐시를 쓸 수 없습니다.',// 'Cache unable to write to {0}',
    'invalidHandlers' => '캐시 구성에는 $validHandlers 배열이 있어야 합니다.', // 'Cache config must have an array of $validHandlers.',

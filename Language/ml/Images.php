@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Image language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Images language settings
 return [
    'sourceImageRequired'    => 'നിങ്ങളുടെ മുൻ‌ഗണനകളിൽ ഒരു ഉറവിട ചിത്രം വ്യക്തമാക്കണം.',
    'gdRequired'             => 'ഈ സവിശേഷത ഉപയോഗിക്കുന്നതിന് ജിഡി ഇമേജ് ലൈബ്രറി ആവശ്യമാണ്.',

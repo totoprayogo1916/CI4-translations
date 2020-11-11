@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Core language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Core language settings
 return [
    'copyError'                    => 'Трапилась помилка при спробі замінити файл ({0}). Будь ласка, переконайтесь, що ваш каталог файлів доступний для запису.',
    'enabledZlibOutputCompression' => 'INI директива zlib.output_compression увімкнута. Це не буде працювати бездоганно із вихідними буферами.',

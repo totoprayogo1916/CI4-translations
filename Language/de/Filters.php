@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Filters language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Filters language settings
 return [
    'noFilter'           => 'Für Filter {0} muss ein passender Alias definiert sein.',
    'incorrectInterface' => '{0} muss CodeIgniter\Filters\FilterInterface implementieren.',

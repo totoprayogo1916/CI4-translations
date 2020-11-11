@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Session language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Session language settings
 return [
    'missingDatabaseTable'   => 'در هنگام استفاده از Database Session Handler، مقدار `sessionSavePath` باید باید برابر با نام جدول دیتابیس باشد.',
    'invalidSavePath'        => 'Session: مسیر ذخیره سازی سشن: "{0}" یک فولدر معتبر نیست یا نمی تواند ایجاد شود.',

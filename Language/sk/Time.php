@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Time language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Time language settings
 return [
    'invalidMonth'   => 'Mesiace musia byť v rozmedzí od 1 do 12. Zadané: {0}',
    'invalidDay'     => 'Dni musia byť v rozmedzí od 1 do 31. Zadané: {0}',

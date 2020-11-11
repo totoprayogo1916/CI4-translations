@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Time language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Time language settings
 return [
    'invalidMonth'   => '月份必須在 1 到 12 之間。 您所輸入的值: {0}',
    'invalidDay'     => '日期必須在 1 到 31 之間。 您所輸入的值: {0}',

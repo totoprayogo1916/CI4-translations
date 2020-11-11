@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Cast language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Cast language settings
 return [
     'jsonErrorDepth'         => '超出了最大堆栈深度。',
     'jsonErrorStateMismatch' => '无效的 JSON 或模式不匹配。',

@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Database language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Database language settings
 return [
    'invalidEvent'                     => '{0}의 경우는 유효하지 않은 Model Event callback입니다.', //  CI4 기준 : {0}에는 method가 들어감. '은, 는, 이, 가' 조사를 붙이기가 애매해서 '{0}의 경우는'라고 덧붙임. // '{0} is not a valid Model Event callback.',
    'invalidArgument'                  => '{0} 대신 반드시 유효한 인수가 제공되어야 합니다.', //  CI4 기준 : {0}에는 argument가 들어감. // 'You must provide a valid {0}.',

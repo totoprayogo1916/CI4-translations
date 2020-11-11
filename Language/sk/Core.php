@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Core language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Core language settings
 return [
    'invalidFile'      => 'Neplatný súbor: {0}',
    'copyError'        => 'Vyskytla sa chyba pri pokuse nahradiť súbor ({0}). Prosím uistite sa, že zložka so súbormi je zapisovateľná..',

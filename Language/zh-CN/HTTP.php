@@ -1,8 +1,6 @@
 <?php
 
 /**
- * HTTP language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// HTTP language settings
 return [
 	// CurlRequest
    'missingCurl'                => '必须启用 CURL 才能使用 CURLRequest 工具类。',

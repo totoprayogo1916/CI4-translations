@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Log language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Log language settings
 return [
    'invalidLogLevel' => '{0} 경우에는 올바르지 않은 로그 레벨입니다.', // '{0} is an invalid log level.',
 ];

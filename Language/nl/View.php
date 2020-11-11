@@ -1,8 +1,6 @@
 <?php
 
 /**
- * View language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// View language settings
 return [
     'invalidCellMethod'     => '{class}::{method} is geen geldige methode.',
     'missingCellParameters' => '{class}::{method} heeft geen methode.',
@@ -19,4 +18,3 @@ return [
     'invalidCellClass'      => 'Kon view cell class niet vinden: {0}.',
     'tagSyntaxError'        => 'Syntax fout in uw Parser tags: {0}',
 ];
-

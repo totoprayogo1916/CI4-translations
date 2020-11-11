@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Email language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Email language settings
 return [
    'mustBeArray'          => 'ഇമെയിൽ മൂല്യനിർണ്ണയ രീതി ഒരു അറേ കൈമാറണം.',
    'invalidAddress'       => 'അസാധുവായ ഇമെയിൽ വിലാസം: {0}',

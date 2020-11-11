@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Encryption language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Encryption language settings
 return [
    'noDriverRequested'    => 'ഡ്രൈവറൊന്നും അഭ്യർത്ഥിച്ചിട്ടില്ല; മിസ് ഡെയ്‌സി വളരെ അസ്വസ്ഥനാകും!',
    'noHandlerAvailable'   => 'ലഭ്യമായ {0} എൻ‌ക്രിപ്ഷൻ ഹാൻഡ്‌ലർ കണ്ടെത്താനായില്ല.',

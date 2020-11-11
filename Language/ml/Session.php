@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Session language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Session language settings
 return [
    'missingDatabaseTable'   => '`sessionSavePath` ഡാറ്റാബേസ് സെഷൻ ഹാൻഡ്‌ലർ പ്രവർത്തിക്കുന്നതിന് പട്ടികയുടെ പേര് ഉണ്ടായിരിക്കണം.',
    'invalidSavePath'        => 'Session: കോൺഫിഗർ ചെയ്ത സേവ് പാത്ത് "{0}" ഒരു ഡയറക്ടറിയല്ല, നിലവിലില്ല അല്ലെങ്കിൽ സൃഷ്ടിക്കാൻ കഴിയില്ല.',

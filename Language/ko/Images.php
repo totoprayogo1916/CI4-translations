@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Image language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Images language settings
 return [
    'sourceImageRequired'    => '환경 설정에서 반드시 원본 이미지가 지정되어야 합니다.', // 'You must specify a source image in your preferences.',
    'gdRequired'             => '이 기능을 사용하려면 GD image 라이브러리가 필요합니다.', // 'The GD image library is required to use this feature.',

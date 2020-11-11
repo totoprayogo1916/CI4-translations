@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Session language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Session language settings
 return [
 	'missingDatabaseTable'   => '`sessionSavePath` يجب أن يحتوى على إسم الجدول حتى يعمل النظام بشكل صحيح.',
 	'invalidSavePath'        => 'نظام الجلسة: المسار المحدد "{0}" ليس مجلد, أو غير موجود ولا يمكن انشاؤه.',

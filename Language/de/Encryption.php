@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Encryption language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Encryption language settings
 return [
    'noDriverRequested'    => 'Kein Treiber angefordert.',
    'noHandlerAvailable'   => 'Es konnte kein verfügbarer {0} Verschlüsselungs-Handler gefunden werden.',

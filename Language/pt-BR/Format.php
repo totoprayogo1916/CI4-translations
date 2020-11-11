@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Format language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Format language settings
 return [
 	'invalidFormatter' => '"{0}" não é uma classe Formatter válida.',
 	'invalidJSON'      => 'Falha ao analisar a string json, erro: "{0}".',

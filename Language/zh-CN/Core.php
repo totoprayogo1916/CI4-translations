@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Core language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Core language settings
 return [
     'invalidFile'      => '无效的文件: {0}。',
     'copyError'        => '尝试替换文件时发生错误，请确认文件路径是否有写权限。',

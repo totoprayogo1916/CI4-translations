@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Redirect language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Redirect language settings
 return [
    'forUnableToRedirect' => 'Umleitung auf "{0}" nicht möglich. Error status code "{1}"',
 ];

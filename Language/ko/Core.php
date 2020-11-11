@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Core language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Core language settings
 return [
    'invalidFile'      => '유효하지 않은 파일: {0}', // 'Invalid file: {0}',
    'copyError'        => '파일({0}) 교체를 시도하는 도중에 에러가 발생하였습니다. 파일 디렉터리에 쓰기 권한이 있는지 확인해주십시오.', // 'An error was encountered while attempting to replace the file({0}). Please make sure your file directory is writable.',

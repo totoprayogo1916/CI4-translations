@@ -1,8 +1,6 @@
 <?php
 
 /**
- * Time language strings.
- *
  * This file is part of the CodeIgniter 4 framework.
  *
  * (c) CodeIgniter Foundation <admin@codeigniter.com>
@@ -11,6 +9,7 @@
  * file that was distributed with this source code.
  */
 
+// Time language settings
 return [
    'invalidMonth'   => 'മാസങ്ങൾ 1 നും 12 നും ഇടയിലായിരിക്കണം. നൽകിയിട്ടുള്ളത്: {0}',
    'invalidDay'     => 'ദിവസങ്ങൾ 1 നും 31 നും ഇടയിലായിരിക്കണം. നൽകിയിരിക്കുന്നത്: {0}',
