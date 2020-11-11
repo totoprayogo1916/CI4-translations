@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-// Language language settings
+// Language system language settings
 return [
 	'languageGetLineInvalidArgumentException' => 'La linea di richiesta deve essere una stringa o un array di stringhe.'
 ];

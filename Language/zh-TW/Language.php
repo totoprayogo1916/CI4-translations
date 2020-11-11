@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-// Language language settings
+// Language system language settings
 return [
    'languageGetLineInvalidArgumentException' => 'Get line 必須是字串、陣列，或是字串陣列。',
 ];

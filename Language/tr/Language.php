@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-// Language language settings
+// Language system language settings
 return [
 	'languageGetLineInvalidArgumentException' => 'Okunacak satır bir karakter kümesi veya dizisi olmalı.'
 ];

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-// Language language settings
+// Language system language settings
 return [
    'languageGetLineInvalidArgumentException' => '行を取得するには、文字列または文字列の配列でなければなりません。', //Get line must be a string or array of strings.
 ];

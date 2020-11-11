@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-// Language language settings
+// Language system language settings
 return [
    'languageGetLineInvalidArgumentException' => '获取行必须是字符或字符串数组。',
 ];

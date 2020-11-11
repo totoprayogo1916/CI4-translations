@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Language language strings.
+ * Language system language strings.
  *
  * This file is part of the CodeIgniter 4 framework.
  *

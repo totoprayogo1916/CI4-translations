@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-// Language language settings
+// Language system language settings
 return [
 	'languageGetLineInvalidArgumentException' => 'La línea obtenida debe ser una cadena o un array de cadenas.'
 ];

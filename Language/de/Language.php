@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-// Language language settings
+// Language system language settings
 return [
    'languageGetLineInvalidArgumentException' => 'Get line muss ein String oder ein Array mit Strings sein.',
 ];
